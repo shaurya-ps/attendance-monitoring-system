@@ -1,0 +1,68 @@
+{
+    "last_updated": "07 Mar 2026 \u2022 08:59:46 PM",
+    "subjects": [
+        {
+            "subject": "Operating System",
+            "theory_total": 10,
+            "theory_attended": 8,
+            "lab_total": 8,
+            "lab_attended": 6
+        },
+        {
+            "subject": "Data Communication and networking",
+            "theory_total": 9,
+            "theory_attended": 7,
+            "lab_total": 7,
+            "lab_attended": 5
+        },
+        {
+            "subject": "Design and Analysis of Algorithm",
+            "theory_total": 8,
+            "theory_attended": 7,
+            "lab_total": 8,
+            "lab_attended": 6
+        },
+        {
+            "subject": "Understanding Harmony and Ethical Human Conduct",
+            "theory_total": 2,
+            "theory_attended": 2,
+            "lab_total": 0,
+            "lab_attended": 0
+        },
+        {
+            "subject": "Aptitude Proficiency",
+            "theory_total": 0,
+            "theory_attended": 0,
+            "lab_total": 8,
+            "lab_attended": 8
+        },
+        {
+            "subject": "Fundamentals of Cyber Security",
+            "theory_total": 10,
+            "theory_attended": 8,
+            "lab_total": 0,
+            "lab_attended": 0
+        },
+        {
+            "subject": "Programming Skills with Data Structures",
+            "theory_total": 0,
+            "theory_attended": 0,
+            "lab_total": 14,
+            "lab_attended": 12
+        },
+        {
+            "subject": "Python Programming",
+            "theory_total": 4,
+            "theory_attended": 3,
+            "lab_total": 6,
+            "lab_attended": 6
+        },
+        {
+            "subject": "Theory of Computation",
+            "theory_total": 12,
+            "theory_attended": 9,
+            "lab_total": 0,
+            "lab_attended": 0
+        }
+    ]
+}

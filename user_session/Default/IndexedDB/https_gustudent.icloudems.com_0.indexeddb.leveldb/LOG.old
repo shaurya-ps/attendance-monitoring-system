@@ -1,0 +1,6 @@
+2026/03/03-19:24:21.052 2448 Creating DB C:\Users\Pc\Desktop\Access.py\user_session\Default\IndexedDB\https_gustudent.icloudems.com_0.indexeddb.leveldb since it was missing.
+2026/03/03-19:24:21.104 2448 Reusing MANIFEST C:\Users\Pc\Desktop\Access.py\user_session\Default\IndexedDB\https_gustudent.icloudems.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/03-19:24:21.185 2448 Level-0 table #5: started
+2026/03/03-19:24:21.261 2448 Level-0 table #5: 781 bytes OK
+2026/03/03-19:24:21.272 2448 Delete type=0 #3
+2026/03/03-19:24:21.273 2448 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
